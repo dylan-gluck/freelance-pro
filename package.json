@@ -18,9 +18,11 @@
 		"@tailwindcss/forms": "^0.5.7",
 		"@types/eslint": "^8.56.0",
 		"autoprefixer": "^10.4.19",
+		"daisyui": "^4.9.0",
 		"eslint": "^8.56.0",
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-svelte": "^2.35.1",
+		"iconify-icon": "^2.0.0",
 		"postcss": "^8.4.38",
 		"prettier": "^3.1.1",
 		"prettier-plugin-svelte": "^3.1.2",
@@ -30,5 +32,8 @@
 		"typescript": "^5.0.0",
 		"vite": "^5.0.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"apexcharts": "^3.48.0"
+	}
 }
